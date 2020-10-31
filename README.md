@@ -39,8 +39,7 @@ simple as running
 virtualenv -p python3 bcd
 ```
 
-This creates a new virtual environment named `bcd`. For Windows, Anaconda, or
-other environments, plese refer to your environment specifc instructions.
+This creates a new virtual environment named `bcd`. 
  
 #### Step 2:
 
